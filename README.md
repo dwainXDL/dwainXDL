@@ -2,10 +2,10 @@
     <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  height="275" width="675" />
 </div>
 
-<h2 align="center"> Hi! : )</h2>
+<h2 align=""> Hi : )</h2>
 
-<p align="center"> <b> I'm. </b> <p>
-<p align="center"> ✨ Working on code. ✨ <br>
+<p align=""> <b> I'm. </b> <p>
+<p align=""> ✨ Working on code. ✨ <br>
 🧑‍🤝‍🧑 Collaborating on code. 🤝 <br>
 🔥 Fun fact about code! 🔥 <br> 
  .....  <br>         
@@ -13,7 +13,7 @@
 
 #
 
-<div align="center">
+<div align="left">
 
 <h3> <b> Languages </b> </h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="Javascript Logo"  />
@@ -52,10 +52,10 @@
 <h3> <b>Development Tools</b> </h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="Anaconda logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="35" alt="Xcode logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="35" alt="VS Code logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt="Visual Studio logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="35" alt="Vim logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="35" alt="Trello logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" height="35" alt="Trello logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="35" alt="Blender logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="35" alt="Illustrator logo"  />
 
@@ -67,11 +67,11 @@
 
 </div>
 
-<br> 
-
 #
 
-<div align="center">
+<div align="">
+
+<br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=dwainXDL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true" height="" alt="Stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwainXDL&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=catppuccin_mocha&hide_border=true&custom_title=Languages" height="195" alt="Languages graph"  />
