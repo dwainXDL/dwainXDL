@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  height="325" width="750" />
+    <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  height="275" width="675" />
 </div>
 
 <h2 align="center"> Hi! : )</h2>
@@ -73,8 +73,6 @@
 
 <div align="center">
 
-<h3> <b> Stats </b> </h3>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=dwainXDL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true" height="150" alt="Stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwainXDL&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=catppuccin_mocha&hide_border=true&custom_title=Languages" height="" alt="Languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dwainXDL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true" height="" alt="Stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dwainXDL&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=catppuccin_mocha&hide_border=true&custom_title=Languages" height="195" alt="Languages graph"  />
 </div>
