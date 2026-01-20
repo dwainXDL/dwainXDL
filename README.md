@@ -1,8 +1,8 @@
 ![Banner GIF](https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif)
 
-## Hi : )
+## Hi!, I'm Dwain : )
 
-**I'm.**
+**I'm:**
 
 ✨ Working on code. ✨
 
@@ -11,33 +11,33 @@
 🔥 Fun fact about code! 🔥
 
 
-.....‼️ error 404 ⁉️
+.....‼️ ERROR 404 ⁉️
 
 ---
 
 ### Languages
 
-[![Languages Icons](https://skillicons.dev/icons?i=js,ts,html,css,cs,java,php,bash,c)](https://skillicons.dev)
+[![Languages Icons](https://skillicons.dev/icons?i=js,ts,html,cs,java)](https://skillicons.dev)
 
 ### Frameworks
 
-[![Frameworks Icons](https://skillicons.dev/icons?i=react,nodejs,bootstrap,maven,dotnet,nextjs,tailwind)](https://skillicons.dev)
+[![Frameworks Icons](https://skillicons.dev/icons?i=react,nodejs,maven,dotnet,nextjs,tailwind,vite)](https://skillicons.dev)
 
 ### Hosting/Servers
 
-[![Hosting/Server Icons](https://skillicons.dev/icons?i=azure,docker)](https://skillicons.dev)
+[![Hosting/Server Icons](https://skillicons.dev/icons?i=azure,docker,vercel)](https://skillicons.dev)
 
 ### Database
 
-[![Database Icons](https://skillicons.dev/icons?i=mysql,firebase,mongo)](https://skillicons.dev)
+[![Database Icons](https://skillicons.dev/icons?i=mysql,firebase,mongo,postgresql)](https://skillicons.dev)
 
 ### Development Tools
 
-[![Development Icons](https://skillicons.dev/icons?i=vscode,visualstudio,vim,blender,illustrator,figma)](https://skillicons.dev)
+[![Development Icons](https://skillicons.dev/icons?i=vscode,visualstudio,vim,blender,illustrator,figma,postman)](https://skillicons.dev)
 
 ### Platforms
 
-[![Platform Icons](https://skillicons.dev/icons?i=apple,windows,raspberrypi,linux,arduino)](https://skillicons.dev)
+[![Platform Icons](https://skillicons.dev/icons?i=apple,windows,linux,raspberrypi,arduino)](https://skillicons.dev)
 
 ---
 
