@@ -44,3 +44,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dwainXDL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=catppuccin_mocha&locale=en&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=dwainXDL&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=6&theme=catppuccin_mocha&hide_border=true&custom_title=Languages)
+
+v2
